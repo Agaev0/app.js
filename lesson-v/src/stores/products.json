@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "title": "iphone 8",
+    "price": 300
+  },
+  {
+    "id": 2,
+    "title": "iphone 8 plus",
+    "price": 400
+  },
+  {
+    "id": 3,
+    "title": "iphone X",
+    "price": 500
+  }
+]
